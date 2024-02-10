@@ -28,3 +28,4 @@ jobs:
 
     - name: Pytest with xvfb
       run: xvfb-run -a pytest
+      
